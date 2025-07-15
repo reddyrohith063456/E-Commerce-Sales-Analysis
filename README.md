@@ -1,5 +1,5 @@
 
-# 📊 E-commerce Sales Dashboard (Power BI)
+
 
 This Power BI project delivers an interactive dashboard to explore and evaluate e-commerce performance across states, categories, and customer segments in India. The project is built using clean data modeling, DAX calculations, and user-friendly visualizations to help business stakeholders make informed decisions.
 
