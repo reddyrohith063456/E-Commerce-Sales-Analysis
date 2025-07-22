@@ -8,7 +8,7 @@ This Power BI project delivers an interactive dashboard to explore and evaluate 
 <img width="1162" alt="Screenshot 2025-05-08 at 11 45 33 PM" src="https://github.com/user-attachments/assets/58651c88-b43c-4f0b-9fc1-b200d0a1d769" />
 
 
-## 🎯 Objectives
+## Objectives
 
 - Track key sales performance metrics such as total revenue, profit, and average order value.
 - Understand customer purchasing behavior by category, payment mode, and geography.
@@ -16,7 +16,7 @@ This Power BI project delivers an interactive dashboard to explore and evaluate 
 
 ---
 
-## 🛠️ Tools & Techniques
+## Tools & Techniques
 
 - **Power BI** for data modeling and interactive dashboards.
 - **DAX (Data Analysis Expressions)** to create key KPIs such as:
@@ -27,7 +27,7 @@ This Power BI project delivers an interactive dashboard to explore and evaluate 
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - **Sales Performance**:
   - Total Sales: ₹438K | Profit: ₹37K | Orders: 5,615 | Avg. Order Value: ₹121K
@@ -42,7 +42,7 @@ This Power BI project delivers an interactive dashboard to explore and evaluate 
 
 ---
 
-## 💡 Impact
+## Impact
 
 The dashboard empowers analysts, category managers, and business leaders to:
 - Identify profitable segments and underperforming months.
